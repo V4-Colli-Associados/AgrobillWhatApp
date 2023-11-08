@@ -1,3 +1,4 @@
+console.log("interno status")
 function showpop() {
     document.getElementsByClassName("popupContainer")[0].style.display = "block";
   }
